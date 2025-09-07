@@ -14,7 +14,7 @@ My name is Jai Parhar, I am a 5th year physics major at UBC. My interests curren
   - Proficient with scripting languagues such as Bash and Autohotkey
 - Other skills
   - Proficient with circuit design, prototyping, and soldering
-    - Previous projects a linear voltage regulator based power supply, a coil-based magnetic accelerator, and an AM radio
+    - Previous projects a linear voltage regulator based power supply, a coil-based magnetic accelerator, an AM radio, and a battery powered high voltage generator
   - Proficient in Excel and other spreadsheet software
 - Academic Interests: AMO physics, nuclear physics, particle physics, general relativity, computational physics
 - Non-academic Interests: Game development (Ludum Dare 42 game jam competitor), reading, punk rock, horror movies, working out
