@@ -1,4 +1,4 @@
-#### Hi there!
+### Hi there!
 
 My name is Jai Parhar, I am a 5th year physics major at UBC. My interests currently include AMO, nuclear, and particle physics, as well as creating simulations regarding these. Here is a little compilation of what I have been working on over the last however many years!
 
