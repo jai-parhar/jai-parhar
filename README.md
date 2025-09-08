@@ -6,7 +6,7 @@ My name is Jai Parhar, I am a 5th year physics major at UBC. My interests curren
 - Currently volunteering at the Madison lab, and beginning to simultaniously volunteer for the Milner group.
 - Programming experience:
   - 10+ years of programming experience in C++, Java, HTML, CSS
-  - 8 years of programming experience in Python, C
+  - 8 years of programming experience in Python, C, Javascript
   - 3 years of programming experience in MATLAB
   - 6 months of programming experience in Mathematica
   - Currently learning LabVIEW, Tensorflow (python), x86 Assembly
